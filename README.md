@@ -18,4 +18,4 @@ se queda el copyright Pag 2
 Dropdown 4 y 5 se van
 
 Dropdown 1 es el blog
-Dropdown 2 es el 
+Dropdown 2 es el Catalogo de productos 
