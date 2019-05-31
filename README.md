@@ -10,10 +10,10 @@ facts se va Pag 2
 our clients se va Pag 2
 testimonials se va Pag 2
 
-usefull links se va
-contact us se va
-our newsletter ser va
-se queda el copyright
+usefull links se va Pag 2
+contact us se va Pag 2 
+our newsletter ser va Pag 2
+se queda el copyright Pag 2
 
 Dropdown 4 y 5 se van
 
