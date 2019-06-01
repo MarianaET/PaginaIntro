@@ -13,9 +13,3 @@ cambiar las fotos del equipo solo la de los wearables en el index.
 
  Catalogo de productos 
 utilizar desde call to action, hasta el portafolio eliminando lo demas y suplantando los datos conforme al tema
-
-Hola muy buenas tardes
-GG ya estamos hechos
-
-Hola
-holiwis bb!!!! :3
