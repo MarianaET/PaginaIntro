@@ -15,7 +15,14 @@ contact us se va Pag 2
 our newsletter ser va Pag 2
 se queda el copyright Pag 2
 
-Dropdown 4 y 5 se van
 
-Dropdown 1 es el blog
-Dropdown 2 es el Catalogo de productos 
+cambiar las fotos del portafolio solo la de los wearables.
+
+ blog:
+ utilizar solamente el final de la pagina que seria la seccion de contacto hasta el footer, cambiar datos, traducir y colocar links a todo lo clickable. 
+
+
+
+ Catalogo de productos 
+
+
